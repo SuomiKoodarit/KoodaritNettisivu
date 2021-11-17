@@ -1,3 +1,8 @@
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+}
+
 .about-page .b-example-divider {
   height: 3rem;
   background-color: rgba(0, 0, 0, .1);
