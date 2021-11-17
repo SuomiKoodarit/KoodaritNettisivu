@@ -1,3 +1,19 @@
+:root {
+  --black: rgba(37, 41, 82, 0.897);
+  --black-dark: rgba(18, 20, 46, 0.911);
+}
+
+.bg-black {
+  background-color: var(--black) !important;
+  
+}
+
+.main-bg {
+  background:linear-gradient(var(--black), var(--black-dark)), url(assets/imgs/code-bg.jpg);
+  
+}
+
+
 body {
   min-height: 75rem;
   padding-top: 3.5rem;
