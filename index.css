@@ -10,9 +10,12 @@
 
 .main-bg {
   background:linear-gradient(var(--black), var(--black-dark)), url(assets/imgs/code-bg.jpg);
-  
+  height: 380px;
 }
 
+.main-bg .logo {
+  width: 365px;
+}
 
 body {
   min-height: 75rem;
