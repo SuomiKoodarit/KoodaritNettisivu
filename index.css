@@ -1,6 +1,6 @@
 :root {
-  --black: rgba(37, 41, 82, 0.897);
-  --black-dark: rgba(18, 20, 46, 0.911);
+  --black: rgba(72, 73, 75, 0.897);
+  --black-dark: rgba(39, 38, 38, 0.911);
 }
 
 .bg-black {
@@ -14,6 +14,7 @@
 }
 
 .main-bg .logo {
+  display: inline;
   width: 365px;
 }
 
@@ -45,6 +46,22 @@ body {
 
 .navbar-background {
   background-color: rgba(33, 38, 44, 0.76);
+}
+
+.suomi-koodarit {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.nappula {
+  background-color: #3ba55d;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-weight: 600;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
 }
 
 
