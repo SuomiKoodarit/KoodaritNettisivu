@@ -19,7 +19,6 @@
 
 body {
   min-height: 75rem;
-  padding-top: 3.5rem;
 }
 
 .bd-placeholder-img {
@@ -42,6 +41,10 @@ body {
 .about-page .bi {
   vertical-align: -.125em;
   fill: currentColor;
+}
+
+.navbar-background {
+  background-color: rgba(33, 38, 44, 0.76);
 }
 
 
