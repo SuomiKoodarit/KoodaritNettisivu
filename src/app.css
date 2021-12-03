@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .bg-black {
-  background-color: rgb(29, 33, 41) !important;
+  background-color: rgb(23, 23, 24) !important;
   
 }
 
@@ -44,7 +44,7 @@ body {
 }
 
 .navbar-background {
-  background-color: rgba(33, 38, 44, 0.76);
+  background-color: rgba(17, 17, 17, 0.938);
 }
 
 .suomi-koodarit {
