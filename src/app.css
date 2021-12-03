@@ -44,8 +44,10 @@ body {
 }
 
 .navbar-background {
-  /*background-color: rgba(17, 17, 17, 0.938);*/
-  background-color: #171719 !important;
+  /*background-color: rgba(17, 17, 17, 0.938);
+    background-color: #171719 !important;
+  */
+  background-color: #202225 !important;
 
 }
 
