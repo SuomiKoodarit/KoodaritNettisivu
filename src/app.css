@@ -7,6 +7,20 @@
   
 }
 
+.col p {
+  font-size: 20px;
+  width: 70%;
+}
+
+.col .discord {
+  width: 700px;
+  border-radius: 10px;
+}
+
+.footer p {
+  font-size: 20px;
+}
+
 .main-bg {
   background:linear-gradient(rgba(31, 82, 185, 0.897), (rgba(173, 39, 39, 0.911), url(/assets/imgs/code-bg.jpg)));
   height: 380px;
@@ -59,12 +73,13 @@ body {
 }
 
 .nappula {
-  background-color: #3ba55d;
+  background-color: #5865f2;
   border-radius: 5px;
-  padding: 10px 20px;
+  height: 3rem;
   font-weight: 600;
   color: rgb(255, 255, 255);
   font-size: 18px;
+  width: 57.5%;
 }
 
 
