@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 .bg-black {
-  background-color: #171719 !important;
-  
+  /* background-color: #171719 !important; */
+  background: linear-gradient(#171719d3, #171719), url(/assets/imgs/code-bg.jpg) !important;
 }
 
 blue {  

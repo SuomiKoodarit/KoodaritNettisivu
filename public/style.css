@@ -32246,12 +32246,32 @@ video {
 }
 
 .bg-black {
-  background-color: rgb(29, 33, 41) !important;
+  /* background-color: #171719 !important; */
+  background:linear-gradient(var(red), var(green)), url(/assets/imgs/code-bg.jpg) !important;
 }
 
-.main-bg {
-  background:linear-gradient(rgba(31, 82, 185, 0.897), (rgba(173, 39, 39, 0.911), url(/assets/imgs/code-bg.jpg)));
-  height: 380px;
+blue {
+  color: #3ec7fe;
+  font-weight: 600;
+}
+
+.col p {
+  font-size: 20px;
+  width: 70%;
+}
+
+.col .discord {
+  width: 700px;
+  border-radius: 10px;
+}
+
+.footer {
+  background-color: #202225;
+}
+
+.footer p {
+  font-size: 20px;
+  color: white ;
 }
 
 .main-bg .logo {
@@ -32286,7 +32306,10 @@ body {
 }
 
 .navbar-background {
-  background-color: rgba(33, 38, 44, 0.76);
+  /*background-color: rgba(17, 17, 17, 0.938);
+    background-color: #171719 !important;
+  */
+  background-color: #202225 !important;
 }
 
 .suomi-koodarit {
@@ -32297,12 +32320,19 @@ body {
 }
 
 .nappula {
-  background-color: #3ba55d;
+  background-color: #5865f2;
   border-radius: 5px;
-  padding: 10px 20px;
+  height: 3rem;
   font-weight: 600;
   color: rgb(255, 255, 255);
   font-size: 18px;
+  width: 57.5%;
+  transition: 0.8s;
+}
+
+.nappula:hover {
+  background-color: #2530a7;
+  transition: 0.8s;
 }
 
 @media (min-width: 768px) {
