@@ -1,8 +1,8 @@
 function christmasTheme() {
-    let d = new Date();
-    n = d.getMonth();
+    let getDate = new Date();
+    currentMonth = getDate.getMonth();
 
-    if (n === 11) {
+    if (currentMonth === 11) {
         var changeLogo = document.getElementById("logo")
         changeLogo.src = "/assets/imgs/logo.png";
     }
