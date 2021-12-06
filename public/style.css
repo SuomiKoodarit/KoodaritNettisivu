@@ -32274,7 +32274,7 @@ blue {
   color: white ;
 }
 
-.main-bg .logo {
+.main-bg #logo {
   display: inline;
   width: 365px;
 }
