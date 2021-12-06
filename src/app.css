@@ -37,7 +37,7 @@ blue {
   height: 380px;
 }
 
-.main-bg .logo {
+.main-bg #logo {
   display: inline;
   width: 365px;
 }
