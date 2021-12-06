@@ -7,6 +7,11 @@
   
 }
 
+blue {  
+  color: #3ec7fe; 
+  font-weight: 600;
+}
+
 .col p {
   font-size: 20px;
   width: 70%;
@@ -80,6 +85,14 @@ body {
   color: rgb(255, 255, 255);
   font-size: 18px;
   width: 57.5%;
+  transition: 0.8s;
+
+}
+
+.nappula:hover {
+  background-color: #2530a7;
+  transition: 0.8s;
+
 }
 
 
