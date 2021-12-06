@@ -22,8 +22,14 @@ blue {
   border-radius: 10px;
 }
 
+.footer {
+  background-color: #202225;
+}
+
 .footer p {
   font-size: 20px;
+  color: white ;
+
 }
 
 .main-bg {
