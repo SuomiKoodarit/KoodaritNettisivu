@@ -32247,7 +32247,7 @@ video {
 
 .bg-black {
   /* background-color: #171719 !important; */
-  background:linear-gradient(var(red), var(green)), url(/assets/imgs/code-bg.jpg) !important;
+  background: linear-gradient(#171719d3, #171719), url(/assets/imgs/code-bg.jpg) !important;
 }
 
 blue {
@@ -32274,7 +32274,12 @@ blue {
   color: white ;
 }
 
-.main-bg #logo {
+.main-bg {
+  background:linear-gradient(rgba(31, 82, 185, 0.897), (rgba(173, 39, 39, 0.911), url(/assets/imgs/code-bg.jpg)));
+  height: 380px;
+}
+
+.main-bg .logo {
   display: inline;
   width: 365px;
 }
