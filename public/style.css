@@ -32250,11 +32250,6 @@ video {
   background: linear-gradient(#171719d3, #171719), url(/assets/imgs/code-bg.jpg) !important;
 }
 
-blue {
-  color: #3ec7fe;
-  font-weight: 600;
-}
-
 .col p {
   font-size: 20px;
   width: 70%;
@@ -32317,7 +32312,7 @@ body {
   background-color: #202225 !important;
 }
 
-.suomi-koodarit {
+.suomi-koodarit h2 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color: white;
   font-weight: bold;
@@ -32325,14 +32320,18 @@ body {
 }
 
 .nappula {
+  display: inline-block;
   background-color: #5865f2;
   border-radius: 5px;
   height: 3rem;
   font-weight: 600;
   color: rgb(255, 255, 255);
   font-size: 18px;
-  width: 57.5%;
+  width: 57.5% ;
   transition: 0.8s;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .nappula:hover {
