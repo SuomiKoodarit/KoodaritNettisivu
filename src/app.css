@@ -7,11 +7,6 @@
   background: linear-gradient(#171719d3, #171719), url(/assets/imgs/code-bg.jpg) !important;
 }
 
-hr {  
-  color: #3ec7fe; 
-  font-weight: 600;
-}
-
 .col p {
   font-size: 20px;
   width: 70%;
