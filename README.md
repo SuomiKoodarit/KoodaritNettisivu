@@ -12,3 +12,6 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-custom-dom
 
 # HTTPS Cloudfront 2 Buckets
 https://youtu.be/mls8tiiI3uc
+
+# for build
+npx tailwindcss -i ./src/app.css -o ./public/style.css --watch
