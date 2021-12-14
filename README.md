@@ -14,4 +14,4 @@ https://docs.aws.amazon.com/AmazonS3/latest/userguide/website-hosting-custom-dom
 https://youtu.be/mls8tiiI3uc
 
 # for build
-npx tailwindcss -i ./src/app.css -o ./public/style.css --watch
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch

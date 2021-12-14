@@ -1,29 +1,5 @@
 {
-  "name": "html-js-css",
-  "version": "1.0.0",
-  "description": "https://medium.com/devops-with-valentine/aws-s3-static-website-hosting-ci-cd-pipeline-using-gitlab-ci-ae7dfd461067",
-  "main": "index.js",
-  "scripts": {
-    "build": "tailwindcss build src/app.css -o public/style.css",
-    "watch": "tailwindcss build src/app.css -o public/style.css -w"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@gitlab.com/suomikoodarit/html-js-css.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://gitlab.com/suomikoodarit/html-js-css/issues"
-  },
-  "homepage": "https://gitlab.com/suomikoodarit/html-js-css#readme",
   "devDependencies": {
-    "autoprefixer": "^10.4.0",
-    "postcss": "^8.4.5",
-    "tailwindcss": "^2.2.19"
-  },
-  "dependencies": {
-    "postcss-cli": "^9.1.0"
+    "tailwindcss": "^3.0.2"
   }
 }
