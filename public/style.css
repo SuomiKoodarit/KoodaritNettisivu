@@ -32247,7 +32247,7 @@ video {
 
 .bg-black {
   /* background-color: #171719 !important; */
-  background: linear-gradient(#171719d3, #171719), url(/assets/imgs/code-bg.jpg) !important;
+  background: linear-gradient(#171719d3, #171719), url(/assets/imgs/bg.svg) !important;
 }
 
 blue {
