@@ -7,3 +7,5 @@ deploy to s3:
     - aws --version
     - aws s3 rm s3://$S3_BUCKET --recursive
     - aws s3 cp public s3://$S3_BUCKET --recursive
+  only:
+    - web
