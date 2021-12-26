@@ -17,3 +17,5 @@ npm run build
 
 # Basic tailwind project
 https://nachoiacovino.com/blog/how-to-setup-tailwind-css-in-a-vanilla-html-project
+
+.
