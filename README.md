@@ -18,4 +18,5 @@ npm run build
 # Basic tailwind project
 https://nachoiacovino.com/blog/how-to-setup-tailwind-css-in-a-vanilla-html-project
 
-.
+# Google tag manager consent
+https://developers.google.com/tag-platform/devguides/consent#gtag.js_1
