@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/R42nfZY/Logo.png" width="30%" height="auto">
+<img src="https://i.ibb.co/R42nfZY/Logo.png" width="50%" height="auto">
 
 # Koodaritnettisivu Reactilla
 ---
