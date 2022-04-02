@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # KoodaritNettisivu
 Pääasiallinen nettisivu
-=======
 # Logo, nettisivujen suunnittelu ja värimaailma
 ## Tehtävien tarkempi jako ja kontribuutiot, moderaattorit yms
 ### discord kanavalle lisää sääntöjä, niiden tarkistus ja ajankohtaisuus.
@@ -26,4 +24,3 @@ https://nachoiacovino.com/blog/how-to-setup-tailwind-css-in-a-vanilla-html-proje
 https://developers.google.com/tag-platform/devguides/consent#gtag.js_1
 
 # Test
->>>>>>> oldrepo/master
